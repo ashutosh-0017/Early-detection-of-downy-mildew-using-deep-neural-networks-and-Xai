@@ -1,1 +1,1 @@
-# Early-detection-of-downey-mildew-using-deep-neural-networks-and-Xai
+# Early-detection-of-downy-mildew-using-deep-neural-networks-and-Xai
